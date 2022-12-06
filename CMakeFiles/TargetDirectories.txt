@@ -1,0 +1,3 @@
+/home/qbsking/csce689/CBSH2/CMakeFiles/rebuild_cache.dir
+/home/qbsking/csce689/CBSH2/CMakeFiles/edit_cache.dir
+/home/qbsking/csce689/CBSH2/CMakeFiles/CBSH2.dir
